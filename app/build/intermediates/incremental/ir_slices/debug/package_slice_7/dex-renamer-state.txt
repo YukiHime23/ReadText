@@ -1,0 +1,4 @@
+#Mon Jun 24 14:48:46 ICT 2019
+base.0=C\:\\Users\\Yuki Neko\\AndroidStudioProjects\\ReadText\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
